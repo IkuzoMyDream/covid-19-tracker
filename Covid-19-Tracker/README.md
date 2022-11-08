@@ -8,5 +8,3 @@
 
 ### Credits
 [Example by Zinglecode](https://www.youtube.com/watch?v=olYXlF4Qa5o)
-
-![This is an image](https://www.img.in.th/images/12fe431b717520197242b0a8cb9f0eb4.jpg)
